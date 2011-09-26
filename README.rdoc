@@ -1,0 +1,20 @@
+= CKEditor Assets for Rails 3.1
+
+CKEditor packaged for the Rails 3.1 asset pipeline.
+
+== Installation 
+
+In your Gemfile (Rails >= 3.1):
+
+  gem 'ckeditor_assets'
+
+== Usage
+
+In your main javascript file use the following sprokets includes:
+
+  //= require ckeditor
+  //= require ckeditor.jquery
+
+== License
+
+{http://ckeditor.com/license}[http://ckeditor.com/license]
